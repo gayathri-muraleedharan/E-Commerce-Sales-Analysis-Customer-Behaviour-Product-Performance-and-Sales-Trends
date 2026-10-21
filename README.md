@@ -325,7 +325,7 @@ The box plot highlights variation in recorded sales and potential outliers.
 
 #### 10.1.3 Distribution of Payment Methods
 
-![Figure 10.3: Distribution of Payment Methods](images/figure-10-3.png)
+![Figure 10.3: Distribution of Payment Methods](Graphs/figure-10-3.png.png)
 
 Gateway was the most frequently recorded payment method, accounting for 48.6% of transaction records.
 
