@@ -363,7 +363,7 @@ The scatter plot shows a positive association between unit price and recorded sa
 
 #### 10.2.6 Total Sales by City
 
-![Figure 10.9: Total Sales by City](images/figure-10-9.png)
+![Figure 10.9: Total Sales by City](Graphs/figure-10-9.png)
 
 Tehran recorded the highest sales value among the cities analysed.
 
