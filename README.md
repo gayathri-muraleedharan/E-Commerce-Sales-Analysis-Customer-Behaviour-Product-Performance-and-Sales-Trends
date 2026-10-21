@@ -339,7 +339,7 @@ Electronics recorded the highest sales value among product categories.
 
 #### 10.2.2 Top 10 Products by Sales
 
-![Figure 10.5: Top 10 Products by Sales](images/figure-10-5.png)
+![Figure 10.5: Top 10 Products by Sales](Graphs/figure-10-5.png.png)
 
 Headphones recorded the highest sales value among the ten products shown.
 
