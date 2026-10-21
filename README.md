@@ -313,7 +313,7 @@ Twelve visualisations were created using Matplotlib, Seaborn and Plotly Express 
 
 #### 10.1.1 Distribution of Customer Ages
 
-![Figure 10.1: Distribution of Customer Ages](images/figure-10-1.png)
+![Figure 10.1: Distribution of Customer Ages](Graphs/figure-10-1.png)
 
 The histogram shows customer ages ranging from 18 to 65, with a concentration around ages 37–42.
 
