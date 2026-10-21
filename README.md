@@ -2,9 +2,7 @@
 
 ## 1. Abstract
 
-This project analyses e-commerce transaction data to understand customer purchasing patterns, product performance and sales trends. Using Python, the project covers data cleaning, exploratory data analysis (EDA), statistical analysis and data visualisation.
-
-The original dataset contained 49,297 rows and 17 columns. After preprocessing, the final dataset contained 49,204 rows and 20 columns. The analysis identified Electronics as the leading product category by recorded sales, Tehran as the highest-performing city, and a strong positive correlation between unit price and sales.
+This project analyses e-commerce transaction data to explore customer purchasing patterns, product performance and sales trends. Using Python, the original dataset of 49,297 records was cleaned and analysed through exploratory data analysis, statistical methods and visualisation. The analysis examined product categories, customer segments, geographical sales, payment methods, order statuses and monthly trends. Findings revealed that Electronics generated the highest recorded sales, Tehran led city-level sales, Gateway was the most commonly used payment method, and unit price had a strong positive correlation with sales. The project demonstrates how data analytics can uncover meaningful patterns and support informed business decisions.
 
 ## 2. Introduction
 
