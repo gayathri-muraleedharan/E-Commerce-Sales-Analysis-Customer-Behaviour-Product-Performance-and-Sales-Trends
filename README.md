@@ -319,7 +319,7 @@ The histogram shows customer ages ranging from 18 to 65, with a concentration ar
 
 #### 10.1.2 Distribution of Sales
 
-![Figure 10.2: Distribution of Sales](images/figure-10-2.png)
+![Figure 10.2: Distribution of Sales](Graphs/figure-10-2.png)
 
 The box plot highlights variation in recorded sales and potential outliers.
 
