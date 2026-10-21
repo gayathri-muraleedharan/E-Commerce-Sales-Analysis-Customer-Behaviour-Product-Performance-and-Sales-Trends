@@ -333,7 +333,7 @@ Gateway was the most frequently recorded payment method, accounting for 48.6% of
 
 #### 10.2.1 Total Sales by Product Category
 
-![Figure 10.4: Total Sales by Product Category](images/figure-10-4.png)
+![Figure 10.4: Total Sales by Product Category](Graphs/figure-10-4.png)
 
 Electronics recorded the highest sales value among product categories.
 
