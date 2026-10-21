@@ -351,7 +351,7 @@ Accessories recorded the highest quantity sold, while Electronics led in recorde
 
 #### 10.2.4 Total Sales by Customer Segment
 
-![Figure 10.7: Total Sales by Customer Segment](images/figure-10-7.png)
+![Figure 10.7: Total Sales by Customer Segment](Graphs/figure-10-7.png)
 
 Regular customers contributed the largest share of recorded sales.
 
