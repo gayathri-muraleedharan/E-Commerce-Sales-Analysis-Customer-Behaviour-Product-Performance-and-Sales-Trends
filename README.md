@@ -383,7 +383,7 @@ Monthly sales varied over time, with May 2025 recording the highest monthly valu
 
 #### 10.3.2 Correlation Heatmap of Numerical Variables
 
-![Figure 10.12: Correlation Heatmap of Numerical Variables](images/figure-10-12.png)
+![Figure 10.12: Correlation Heatmap of Numerical Variables](Graphs/figure-10-12.png)
 
 The heatmap highlights the strong positive correlation between UnitPrice and Sales (0.78) and the moderate positive correlation between Quantity and Sales (0.42).
 
