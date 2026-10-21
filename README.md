@@ -345,7 +345,7 @@ Headphones recorded the highest sales value among the ten products shown.
 
 #### 10.2.3 Total Quantity Sold by Product Category
 
-![Figure 10.6: Total Quantity Sold by Product Category](images/figure-10-6.png)
+![Figure 10.6: Total Quantity Sold by Product Category](Graphs/figure-10-6.png)
 
 Accessories recorded the highest quantity sold, while Electronics led in recorded sales value.
 
