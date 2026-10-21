@@ -369,7 +369,7 @@ Tehran recorded the highest sales value among the cities analysed.
 
 ![Figure 10.11: Order Status by Customer Segment](Graphs/figure-10-11.png)
 
-Completed transactions were the most common status across all three customer segments. This chart compares two categorical variables and is therefore bivariate.
+Completed transactions were the most common status across all three customer segments. 
 
 ### 10.3 Multivariate Analysis
 
