@@ -357,7 +357,7 @@ Regular customers contributed the largest share of recorded sales.
 
 #### 10.2.5 Relationship Between Unit Price and Sales
 
-![Figure 10.8: Relationship Between Unit Price and Sales](images/figure-10-8.png)
+![Figure 10.8: Relationship Between Unit Price and Sales](Graphs/figure-10-8.png)
 
 The scatter plot shows a positive association between unit price and recorded sales.
 
