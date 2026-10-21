@@ -377,7 +377,7 @@ Completed transactions were the most common status across all three customer seg
 
 #### 10.3.1 Monthly Sales Trends by Year
 
-![Figure 10.10: Monthly Sales Trends by Year](images/figure-10-10.png)
+![Figure 10.10: Monthly Sales Trends by Year](Graphs/figure-10-10.png.png)
 
 Monthly sales varied over time, with May 2025 recording the highest monthly value. The 2026 data covers January to June only.
 
